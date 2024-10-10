@@ -1,5 +1,3 @@
-Sure, here’s a more attractive version of your README for the Student Details Management System (SDMS) project:
-
 ---
 
 # Student Details Management System (SDMS)
@@ -47,5 +45,3 @@ By following these steps, you should be able to set up and run the SDMS project 
 Happy coding!
 
 ---
-
-Feel free to customize any part of this README to better suit your needs!
